@@ -4,7 +4,7 @@ This is markdown file
 
 I like Github and you can find at this webpage: [Github](http://github.com)
 
-I like turtles Testudo graeca. Have a look at mine !
+I like turtles Testudo graeca. Have a look at mine ! Here is the picture:
 
 ![A beautiful cat](./images/turtle.jpg)
 
