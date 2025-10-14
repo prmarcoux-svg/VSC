@@ -4,7 +4,7 @@ This is markdown file
 
 I like Github and you can find at this webpage: [Github](http://github.com)
 
-I like turtles. Have a look at mine !
+I like turtles Testudo graeca. Have a look at mine !
 
 ![A beautiful cat](./images/turtle.jpg)
 
@@ -29,3 +29,4 @@ def greet (name):
 
 greet ("world")
 
+Let's make some changes in the first version.
